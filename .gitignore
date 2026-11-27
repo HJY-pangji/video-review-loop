@@ -1,0 +1,17 @@
+# 영상, 완성본, 개인 자료는 올리지 않는다
+out/
+private/
+config.json
+*.mp4
+*.mov
+*.MOV
+*.MP4
+*.wav
+*.mp3
+# 서체와 모델은 각자 내려받는다 (docs/SETUP_WINDOWS.md)
+assets/fonts/*.otf
+models/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
